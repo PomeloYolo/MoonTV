@@ -2,8 +2,8 @@
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "非凡資源",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "電影天堂",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
@@ -25,7 +25,7 @@
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "凡自資源",
+      "name": "非凡影視",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
@@ -42,7 +42,7 @@
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "急速資源",
+      "name": "極速資源",
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
@@ -50,12 +50,12 @@
       "name": "豆瓣資源"
     },
     "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪資源"
-    },
-    "mdzy": {
       "api": "http://api.apibdzy.com/api.php/provide/vod",
       "name": "百度資源"
+    },
+    "mdzy": {
+      "api": "http://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "紅牛資源"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -66,8 +66,8 @@
       "name": "櫻花資源"
     },
     "wujin": {
-      "api": "http://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "紅牛資源"
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "無盡資源"
     },
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
@@ -78,7 +78,7 @@
       "name": "iKun資源"
     },
     "lzi": {
-      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子資源"
     },
     "xiaomaomi": {
